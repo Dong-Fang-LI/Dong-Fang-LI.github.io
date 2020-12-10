@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kaicheng Huang is a Ph.D. candidate at the Mechanical Engineering Department, The Hong Kong Polytechnic University (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/). He is involved in a project supported in part by the Research Grant Council of the Hong Kong Special Administrative Region. Kaicheng has served a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
+Kaicheng Huang is a Ph.D. candidate at the Mechanical Engineering Department, The Hong Kong Polytechnic University (PolyU), supervised by [Dr. R. C. K. Leung](https://www.polyu.edu.hk/me/people/academic-teaching-staff/leung-chi-kin-randolph-dr/). He is involved in a project supported in part by the Research Grant Council of the Hong Kong Special Administrative Region. Kaicheng has served a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
 
 During his Ph.D., he did a research internship at the Mechanical and Industrial Engineering Department, The University of Toronto (UoT), under the supervision of [Prof. James K. Mills](https://www.mie.utoronto.ca/faculty_staff/mills/).
 
